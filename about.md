@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-what should go in here?
+Family guy living in the PNW making previous pit stops in Phoenix and London. Doing tech stuff, working on cybersecurity and enjoying the outdoors. Also dabble in marketing as well.
