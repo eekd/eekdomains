@@ -11,8 +11,8 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Primarily this is an experiment for a former PHP developer switching away from
   Wordpress and other CMS systems. Who knows it could lead into something else.
-baseurl: "/eekdomains/" # the subpath of your site, e.g. /blog
-url: "http://eekd.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://www.eekdomains.com" # the base hostname & protocol for your site
 twitter_username: infosecnick
 github_username:  eekd
 
