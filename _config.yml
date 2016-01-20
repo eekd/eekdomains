@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.eekdomains.com" # the base hostname & protocol for your site
 twitter_username: infosecnick
 github_username:  eekd
-
+linkedin_username: nickro
 
 # Build settings
 markdown: kramdown
