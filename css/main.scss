@@ -16,13 +16,22 @@ $header-font: "Oswald", sans-serif;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+//God's & Monsters color scheme
+$darkest-color:   #020403;
+$darker-color:    #333331;
+$darkgrey-color:  #51514A;
+$green-color:     #C7C540;
+$creme-color:     #FAFAF8;
+
+$text-color:        $darkest-color;
+$background-color: $creme-color;
+$brand-color:      $green-color;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+
 
 // Width of the content area
 $content-width:    800px;
@@ -30,9 +39,6 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-.site-title, h1,h2,h3,h4 {
-    font-family: $header-font;
-}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -53,5 +59,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "typography"
 ;
